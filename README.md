@@ -1,2 +1,1 @@
-# TechAPJ-Gurukul-EDucational-Website
-TechAPJ Gurukul Free educational website
+#Ed-Tech Site for Microsoft Azure internship
